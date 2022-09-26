@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch": "tsc -w"
+    "watch": "tsc -w",
+    "webpack": "webpack",
+    "dev": "webpack serve"
   },
   "repository": {
     "type": "git",
